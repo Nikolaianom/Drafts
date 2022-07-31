@@ -14,7 +14,7 @@
     justify-content: space-between;
     max-width: 1110px;
     width: 100%;
-    margin: 20px auto;
+    margin: 0 auto;
 }
 .nav-links{
     display: flex;
@@ -191,3 +191,4 @@ color: #FFFFFF;
     color: #EF4423;
     transition: .5s;
 }
+.footer-div {}
